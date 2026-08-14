@@ -25,7 +25,7 @@ git clone git@github.com:goha46/log-archive.git
 cd log-archive
 ```
 
-##Использование
+## Использование
 
 Дайте права на выполнение:
 
@@ -38,7 +38,7 @@ chmod +x log_archive.sh
 ./log_archive.sh /var/log
 ```
 
-##Пример вывода
+## Пример вывода
 ```text
 Архив успешно создан: /home/user/log_archives/archives/logs_archive_20240816_100648.tar.gz
 Структура каталогов после запуска
@@ -52,7 +52,7 @@ chmod +x log_archive.sh
     └── archive_log.txt
 ```
 
-##Логирование
+## Логирование
 
 В файл ~/log_archives/logs/archive_log.txt добавляется строка вида:
 
