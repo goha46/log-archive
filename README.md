@@ -59,3 +59,7 @@ chmod +x log_archive.sh
 ```text
 2024-08-16 10:06:48 - Archived /var/log to logs_archive_20240816_100648.tar.gz
 ```
+## Идея взята:
+```text
+https://roadmap.sh/projects/log-archive-tool
+```
